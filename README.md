@@ -25,4 +25,4 @@ A_PARTIR_DE_CUAL_TRAER=0
 ```
 
 
-Nota: Aplicacion con fines de educativos y de aprendisaje.
+Nota: Aplicacion con fines educativos y de aprendisaje.
